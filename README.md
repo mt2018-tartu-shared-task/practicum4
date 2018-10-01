@@ -1,6 +1,4 @@
-# practicum4
-
-# Homework
+# Practicum 4 - Homework
 
 ## System evaluation and error analysis
 ```
