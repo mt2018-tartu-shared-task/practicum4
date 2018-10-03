@@ -24,7 +24,7 @@ As a reminder (and to help a bit these who did not come at the seminar) here are
 7. etc
 
 ### Error analysis
-Assumes you have done the part 1 and got reasonable BLEU score (about 20).
+Assumes you have done the part 1 and got reasonable BLEU score (about 10-20).
 
 If you did not mange to train your baseline properly, open a Github issue.
 
